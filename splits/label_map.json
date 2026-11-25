@@ -1,0 +1,20 @@
+{
+  "label_to_idx": {
+    "Baroque": 0,
+    "Cubism": 1,
+    "Expressionism": 2,
+    "Impressionism": 3,
+    "Minimalism": 4,
+    "Pop_Art": 5,
+    "Ukiyo_e": 6
+  },
+  "idx_to_label": {
+    "0": "Baroque",
+    "1": "Cubism",
+    "2": "Expressionism",
+    "3": "Impressionism",
+    "4": "Minimalism",
+    "5": "Pop_Art",
+    "6": "Ukiyo_e"
+  }
+}

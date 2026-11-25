@@ -1,0 +1,27 @@
+{
+  "Барокко · Рембрандт — Авраам и ангелы": {
+    "file": "baroque.jpg",
+    "source_label": "WikiArt · Рембрандт, 1656",
+    "source_url": "https://www.wikiart.org/en/rembrandt/abraham-entertaining-the-angels-1656"
+  },
+  "Кубизм · Хуан Грис — Гитара и кларнет": {
+    "file": "cubism.jpg",
+    "source_label": "WikiArt · Хуан Грис, 1920",
+    "source_url": "https://www.wikiart.org/en/juan-gris/guitar-and-clarinet-1920"
+  },
+  "Экспрессионизм · Эдвард Мунк — Вампир II": {
+    "file": "expressionism.jpg",
+    "source_label": "WikiArt · Эдвард Мунк, 1902",
+    "source_url": "https://www.wikiart.org/en/edvard-munch/vampire-ii-1902"
+  },
+  "Импрессионизм · Пьер Огюст Ренуар — Альфред Сислей": {
+    "file": "impressionism.jpg",
+    "source_label": "WikiArt · Пьер Огюст Ренуар, 1876",
+    "source_url": "https://www.wikiart.org/en/pierre-auguste-renoir/alfred-sisley-1876"
+  },
+  "Укиё-э · Кацусика Хокусай — Эдзири в провинции Суруга": {
+    "file": "ukiyo-e.jpg",
+    "source_label": "WikiArt · Кацусика Хокусай",
+    "source_url": "https://www.wikiart.org/en/katsushika-hokusai/ejiri-in-the-suruga-province"
+  }
+}
